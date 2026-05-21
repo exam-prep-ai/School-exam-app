@@ -1,4 +1,4 @@
-streamlit
+
 PyPDF2
 docx2txt
 fpdf
