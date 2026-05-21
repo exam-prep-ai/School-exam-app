@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+docx2txt
+fpdf
+requests
+pillow
+python-dotenv
